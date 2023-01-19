@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Bebas Kai';
-    src: url();
+    src: url('../Fonts/BebasKai.otf');
 }
 
 @font-face {
     font-family: 'Myriad Pro';
-    src: url();
+    src: url('../Fonts/MyriadPro-Bold.otf');
 }
